@@ -1,8 +1,3 @@
-Here’s a **hilariously funny `README.md`** for your VS Code extension `f-ckAI` that roasts code using AI APIs like OpenAI, Groq, and Gemini. It’s bold, sarcastic, brutally honest—and perfect for devs with a sense of humor:
-
----
-
-````markdown
 # f-ckAI - A Hilarious Code Roasting Plugin
 
 Because your code deserves to be bullied by robots.  
@@ -116,6 +111,4 @@ Contributions, bug reports, and passive-aggressive pull requests are welcome.
 Leave a ⭐ on GitHub and a ✍️ sarcastic review on the Marketplace.
 Or just shout “f-ckAI!” into the void. Either way, we’ll hear it.
 
-```
----
 ```
