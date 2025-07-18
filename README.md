@@ -1,71 +1,121 @@
-# fckai README
-
-This is the README for your extension "fckai". After writing up a brief description, we recommend including the following sections.
-
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Here’s a **hilariously funny `README.md`** for your VS Code extension `f-ckAI` that roasts code using AI APIs like OpenAI, Groq, and Gemini. It’s bold, sarcastic, brutally honest—and perfect for devs with a sense of humor:
 
 ---
 
-## Following extension guidelines
+````markdown
+# f-ckAI - A Hilarious Code Roasting Plugin
 
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+Because your code deserves to be bullied by robots.  
+A VS Code extension that injects *hilarious*, *savage*, and *absolutely unnecessary* comments into your precious code using AI overlords like **OpenAI**, **Groq**, and **Gemini**.
 
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+> ❝Your code is bad, and you should feel bad.❞ — Bender, probably.
 
-## Working with Markdown
+---
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 🔥 What does this do?
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Highlights your cringeworthy code
+- Sends it to an AI fckrs (OpenAI/Groq/Gemini)
+- Gets back a roast so savage it’ll haunt your dreams
+- Inserts that roast as a code comment
+- Laughs in your face
 
-## For more information
+All without you having to touch StackOverflow... again.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## 💣 Features (We don't distinguish)
+
+-  *Roast Your Code*: Highlight a chunk of your code. That’s it. The AI will do the rest.
+-  *Choose Your Executioner*: Select between OpenAI, Groq, or Gemini as your designated roaster.
+-  *Manage API Keys*: Because we can’t roast your code with pure vibes.
+-  *Funny Comments Only*: If you’re looking for helpful feedback… this ain’t it.
+-  *Support for Devs with Thick Skin*: Prepare your ego.
+
+---
+
+##  Example
+
+Before:
+```js
+function add(a, b) {
+  return a + b;
+}
+````
+
+After:
+
+```js
+// Wow, Even an extra { cannot save this
+function add(a, b) {
+  return a + b;
+}
+```
+
+---
+
+##  Setup
+
+1. Install the extension from the VS Code Marketplace (if you haven’t already).
+2. Hit `Cmd/Ctrl + Shift + P` → `fckAi: Add Funny Comments`
+3. Select your favorite AI (they’re all equally judgmental).
+4. Paste your API key (it’ll be stored securely... maybe).
+5. Highlight the garbage—I mean, code—you want roasted.
+6. Get flamed. 💀
+
+---
+
+## 🔐 API Providers Supported
+
+* [OpenAI](https://platform.openai.com/)
+* [Groq](https://console.groq.com/)
+* [Gemini (Google)](https://makersuite.google.com/)
+
+Paste your API key when prompted. Don’t worry, we *probably* won’t use it to order pizza.
+
+---
+
+##  Commands
+
+| Command                  | Description                                            |
+| ------------------------ | ------------------------------------------------------ |
+| `fckai.addFunnyComments` | Roast selected code like it's a Comedy Central special |
+| `fckai.manageApiKeys`    | Set, view, delete, and obliterate API keys with flair  |
+
+---
+
+##  Cleaning Up
+
+Want to delete your API keys and cry in peace? Run `fckai.manageApiKeys` → `💀 Delete All Keys`.
+
+---
+
+##  Disclaimer
+
+* May cause ego bruising and identity crises.
+* Roasts are AI-generated and may not be suitable for emotionally unstable developers.
+* If your code commits itself after this, it’s not our fault.
+
+---
+
+##  Why?
+
+Because someone had to tell you your code sucks. And we thought... why not let AI do it?
+
+---
+
+##  Author
+
+Built by developers who’ve been roasted too many times by senior engineers.
+Contributions, bug reports, and passive-aggressive pull requests are welcome.
+
+---
+
+## 🧡 Like this extension?
+
+Leave a ⭐ on GitHub and a ✍️ sarcastic review on the Marketplace.
+Or just shout “f-ckAI!” into the void. Either way, we’ll hear it.
+
+```
+---
+```

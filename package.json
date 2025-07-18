@@ -1,17 +1,33 @@
 {
   "name": "fckai",
   "displayName": "f-ckAI",
-  "description": "",
-  "type": "module",
+  "description": "Injects funny, sarcastic roast comments into your code using AI APIs like OpenAI, Groq, or Gemini.",
   "version": "0.0.1",
+  "publisher": "FckingAIs069",
   "engines": {
     "vscode": "^1.102.0"
   },
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "keywords": [
+    "roast",
+    "funny",
+    "code comments",
+    "openai",
+    "groq",
+    "gemini"
+  ],
+  "activationEvents": [
+    "onCommand:fckai.addFunnyComments",
+    "onCommand:fckai.manageApiKeys"
+  ],
   "main": "./out/extension.js",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rohit-554/f-ckAI"
+  },
   "contributes": {
     "configuration": {
       "title": "F*ck AI - Roast Plugin",
@@ -36,7 +52,8 @@
     "commands": [
       {
         "command": "fckai.addFunnyComments",
-        "title": "fckAi"
+        "title": "Add Funny AI Comments",
+        "category": "FCK AI"
       },
       {
         "command": "fckai.manageApiKeys",
