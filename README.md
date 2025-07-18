@@ -105,10 +105,15 @@ Built by developers who’ve been roasted too many times by senior engineers.
 Contributions, bug reports, and passive-aggressive pull requests are welcome.
 
 ---
+## Contribution
+```
+Do whatever the fck you want with it. Just remember:
+the only thing more unfiltered than this license…
+is this plugin’s opinion of your code.
+Enjoy the chaos. And yeah — fck AI.
+```
 
 ## 🧡 Like this extension?
 
 Leave a ⭐ on GitHub and a ✍️ sarcastic review on the Marketplace.
 Or just shout “f-ckAI!” into the void. Either way, we’ll hear it.
-
-```
