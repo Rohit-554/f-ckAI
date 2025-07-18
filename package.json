@@ -3,6 +3,7 @@
   "displayName": "f-ckAI",
   "description": "Injects funny, sarcastic roast comments into your code using AI APIs like OpenAI, Groq, or Gemini.",
   "version": "0.0.1",
+  "type": "module",
   "publisher": "FckingAIs069",
   "engines": {
     "vscode": "^1.102.0"
@@ -23,7 +24,7 @@
     "onCommand:fckai.manageApiKeys"
   ],
   "main": "./out/extension.js",
-  "icon": "images/icon.png",
+  "icon": "accessory.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Rohit-554/f-ckAI"
